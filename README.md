@@ -174,7 +174,7 @@ A small amount of data has been deleted without any hope of recovery.
 
 ### 4 - Small Scale Data Corruption
 
-A small amount of data has been corrupted in a recoverable way. The user still has lost data, but the app does not crash, and this is potentially fixable via an update.
+A little percent of data has been corrupted in a recoverable way. The user still has lost data, but the app dose'nt crash, and this is potentially fixable via an update.
 
 # License
 
